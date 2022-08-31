@@ -1,0 +1,13 @@
+The shell;
+    -the shell is a program that takes command from the keyboard and sends them to the operating system. that is a shell takes any command that a user provides and passes them to the operating system to be processed. for example to print "Hello world" on the screen, one may use a terminal and type the shell command Echo plus Hello world.
+PWD;
+    - PWD is a shell command that tells the user its current directory.
+CD;
+    -changes the user directory. so if you wanted to go from one folder to another this would be the command you use.
+    -cd .. would take you back to the previous directory.
+less;
+    -the less command is used to display a large text file page by page.
+mkdir;
+    - used to create a new folder.
+rm;
+   -used to delete the file.
